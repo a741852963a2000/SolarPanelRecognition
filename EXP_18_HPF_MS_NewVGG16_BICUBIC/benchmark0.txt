@@ -1,0 +1,70 @@
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.93733674, 'Recall': 0.6953409, 'Accuracy': 0.7927714, 'TP': 45937.0, 'FN': 20127.0, 'FP': 3071.0, 'TN': 42809.0, 'F1': 0.7984044932124253}
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.9247254, 'Recall': 0.7289295, 'Accuracy': 0.80500966, 'TP': 48156.0, 'FN': 17908.0, 'FP': 3920.0, 'TN': 41960.0, 'F1': 0.8152361631230687}
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.9384826, 'Recall': 0.7056945, 'Accuracy': 0.7990156, 'TP': 46621.0, 'FN': 19443.0, 'FP': 3056.0, 'TN': 42824.0, 'F1': 0.8056090819920751}
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.9322162, 'Recall': 0.7275672, 'Accuracy': 0.80800223, 'TP': 48066.0, 'FN': 17998.0, 'FP': 3495.0, 'TN': 42385.0, 'F1': 0.8172752676803077}
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.93598306, 'Recall': 0.71041715, 'Accuracy': 0.800427, 'TP': 46933.0, 'FN': 19131.0, 'FP': 3210.0, 'TN': 42670.0, 'F1': 0.8077482196804179}
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.9356431, 'Recall': 0.725993, 'Accuracy': 0.80882406, 'TP': 47962.0, 'FN': 18102.0, 'FP': 3299.0, 'TN': 42581.0, 'F1': 0.8175921281592001}
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.91422635, 'Recall': 0.75231594, 'Accuracy': 0.81217396, 'TP': 49701.0, 'FN': 16363.0, 'FP': 4663.0, 'TN': 41217.0, 'F1': 0.8254060641726958}
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.9311019, 'Recall': 0.72762775, 'Accuracy': 0.8074841, 'TP': 48070.0, 'FN': 17994.0, 'FP': 3557.0, 'TN': 42323.0, 'F1': 0.81688488360305}
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.94100493, 'Recall': 0.6642044, 'Accuracy': 0.7772547, 'TP': 43880.0, 'FN': 22184.0, 'FP': 2751.0, 'TN': 43129.0, 'F1': 0.778739089125908}
+---- Load Cluster Dataset From: ../DS_full_dataset/TestSet ----
+file: ../DS_full_dataset/TestSet/set1_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_negative_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set1_positive_sample.npz loaded
+file: ../DS_full_dataset/TestSet/set0_positive_sample.npz loaded
+438/438 - 10s
+{'Precision': 0.92909503, 'Recall': 0.7041202, 'Accuracy': 0.79367363, 'TP': 46517.0, 'FN': 19547.0, 'FP': 3550.0, 'TN': 42330.0, 'F1': 0.8011125540121441}
